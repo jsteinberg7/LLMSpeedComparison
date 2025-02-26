@@ -13,8 +13,6 @@ import asyncio
 from typing import Dict, Any, Tuple
 import re
 
-# TODO: Install these dependencies if not already installed:
-# pip install openai groq python-dotenv
 
 import openai
 from groq import AsyncGroq
